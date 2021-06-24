@@ -129,3 +129,5 @@ PS D:\ccc> & C:/Users/hongy/AppData/Local/Programs/Python/Python39/python.exe d:
 [7, 2, 0, 5, 1, 4, 6, 3]
 [7, 3, 0, 2, 5, 1, 6, 4]
 ```
+
+- 參考老師程式範例，並加以註解
