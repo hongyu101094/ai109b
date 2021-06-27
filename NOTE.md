@@ -23,10 +23,6 @@
 
 ![image](https://github.com/hongyu101094/ai109b/blob/main/note/Week6.jpg)
 
-# WEEK7
-
-![image](https://github.com/hongyu101094/ai109b/blob/main/note/Week7.jpg)
-
 # WEEK8
 
 ![image](https://github.com/hongyu101094/ai109b/blob/main/note/Week8.jpg)
