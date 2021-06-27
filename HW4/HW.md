@@ -18,9 +18,13 @@ print(text)
 
 OCR 為光學文字識別的縮寫（Optical Character Recognition，OCR），白話一點就是將圖片翻譯為文字。而 Tesseract 是一個 OCR 模組，目前由 Google 贊助。Tesseract 已經有 30 年歷史，一開始它是惠普實驗室的一款專利軟體，於 2005 年開源，從 2006 年後由 Google 贊助進行後續的開發和維護， Tesseract 也是目前公認最優秀、最精準的開源 OCR 系統。
 
-##
+## 使用圖片
 
-[img](https://github.com/hongyu101094/ai109b/blob/main/HW4/test1.jpg)
+![img](https://github.com/hongyu101094/ai109b/blob/main/HW4/test1.jpg)
+
+## 結果
+
+![img](https://github.com/hongyu101094/ai109b/blob/main/HW4/01.png)
 
 ## 參考資料
 
